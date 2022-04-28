@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#0074bd</color>
+
+    <color name="ultramarine">#2c6bed</color>
+    <color name="main">#8A0ACF</color>
+    <color name="back">#EDCBFF</color>
+    <color name="ultramarine_light">#6191f3</color>
+    <color name="ultramarine_dark">#1851b4</color>
+    <color name="ultramarine_icon">#3a76f0</color>
+    <color name="ultramarine_33">#552c6bed</color>
+    <color name="ultramarine_50">#802c6bed</color>
+    <color name="green">#4caf50</color>
+    <color name="yellow">#ffd624</color>
+    <color name="red">#f44336</color>
+    <color name="red_highlight">#ef5350</color>
+    <color name="core_white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="core_grey_15">#d4d4d4</color>
+    <color name="core_grey_20">#c6c6c6</color>
+    <color name="core_grey_40">#919191</color>
+
+
+
+</resources>

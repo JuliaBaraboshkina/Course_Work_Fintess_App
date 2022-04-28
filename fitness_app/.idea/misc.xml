@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/anvil.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/arm_flex.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/chart_bell_curve_cumulative.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/chart_line.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/currency_btc.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/currency_eur.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/custom_button1.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ethereum.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/github.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/guy_fawkes_mask.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_account_circle_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_add_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_add_circle_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_add_circle_outline_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_alarm_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_archive_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_assessment_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_ballot_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_brightness_10px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_brightness_1_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_brightness_1_8px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_brush_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_calculate_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_calendar_today_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_check_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_close_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_cloud_upload_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_comment_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_create_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_dashboard_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_delete_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_done_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_emoji_events_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_event_available_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_expand_less_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_expand_more_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_fact_check_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_fitness_center_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_food_bank_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_help_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_history_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_home_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_keyboard_arrow_left_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_keyboard_arrow_right_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_leaderboard_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_menu_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_menu_book_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_military_tech_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_more_vert_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_notifications_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_pause_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_person_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_pie_chart_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_place_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_play_arrow_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_poll_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_preview_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_remove_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_repeat_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_replay_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_run_circle_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_save_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_search_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_settings_backup_restore_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_share_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_splashscreenv1_480x800.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_today_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_trip_origin_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_view_carousel_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_view_compact_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/ic_whatshot_24px.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/instr.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/litecoin.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/notebook.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/progress.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/projector_screen.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/tab_color.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/weight.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/weight_kilogram.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/drawable/weight_lifter.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/activity_add_exercise.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/activity_charts.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/activity_day.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/activity_diary.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/activity_exercises.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/day_exercise_row.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/delete_set_dialog.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/diary_exercise_row.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/diary_row.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/exercise_dialog.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/exercise_history_dialog.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/exercise_history_exercise_row.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/exercise_row.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/instruction.xml" value="0.10474006116207951" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/item_view_pager.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/set_dialog.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/timer_dialog.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/view_pager_exercise_row.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/layout/workout_set_row.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/menu/add_exercise_activity_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25555555555555554" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/menu/charts_activity_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/menu/day_activity_menu.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/menu/diary_activity_menu.xml" value="0.25555555555555554" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/menu/main_activity_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/11.04/fitness_app/app/src/main/res/xml/root_preferences.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/drawable/litecoin.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/drawable/notebook.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/drawable/progress.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/activity_add_exercise.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/activity_charts.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/activity_day.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/activity_diary.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/activity_exercises.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/activity_main.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/day_exercise_row.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/delete_set_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/diary_exercise_row.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/diary_row.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/exercise_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/exercise_history_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/exercise_history_exercise_row.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/exercise_row.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/import_warning_dialog.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/instruction.xml" value="0.18818681318681318" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/item_view_pager.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/set_dialog.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/timer_dialog.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/view_pager_exercise_row.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/2/fitness_app/app/src/main/res/layout/workout_set_row.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/drawable/chart_line.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/drawable/custom_button1.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/drawable/custom_button2.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/drawable/custom_button3.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/drawable/custom_button4.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/drawable/custom_button5.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/drawable/ic_add_circle_outline_24px.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/drawable/instr.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/drawable/tab_color.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/drawable/weight_lifter.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/activity_add_exercise.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/activity_charts.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/activity_day.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/activity_diary.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/activity_exercises.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/activity_main.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/day_exercise_row.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/delete_set_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/diary_exercise_row.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/diary_row.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/exercise_row.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/instruction.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/item_view_pager.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/timer_dialog.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/view_pager_exercise_row.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/layout/workout_set_row.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/menu/add_exercise_activity_menu.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Course-Work-Fitness-App-main/fitness_app/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Last version/fitness_app/app/src/main/res/layout/day_exercise_row.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Last version/fitness_app/app/src/main/res/layout/delete_set_dialog.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Last version/fitness_app/app/src/main/res/layout/diary_exercise_row.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Last version/fitness_app/app/src/main/res/layout/diary_row.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Last version/fitness_app/app/src/main/res/layout/exercise_row.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Last version/fitness_app/app/src/main/res/layout/item_view_pager.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Last version/fitness_app/app/src/main/res/layout/timer_dialog.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Last version/fitness_app/app/src/main/res/layout/view_pager_exercise_row.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Last version/fitness_app/app/src/main/res/layout/workout_set_row.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Last version/fitness_app/app/src/main/res/menu/add_exercise_activity_menu.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Last version/fitness_app/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/drawable/arm_flex.xml" value="0.10925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/drawable/chart_bell_curve_cumulative.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/drawable/chart_line.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/drawable/currency_btc.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/drawable/custom_button1.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/drawable/custom_button2.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/drawable/custom_button3.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/drawable/custom_button4.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/drawable/custom_button5.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/drawable/ethereum.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/drawable/ic_account_circle_24px.xml" value="0.1671875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/drawable/ic_ballot_24px.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/drawable/ic_menu_book_24px.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/activity_add_exercise.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/activity_calculator.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/activity_charts.xml" value="0.23279524214103653" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/activity_custom_exercise.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/activity_day.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/activity_diary.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/activity_exercises.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/activity_me.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/add_exercise_comment_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/day_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/day_exercise_row.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/delete_all_dialog.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/delete_day_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/delete_exercise_dialog.xml" value="0.21" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/delete_set_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/diary_exercise_row.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/diary_row.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/donate_dialog.xml" value="0.13272543059777103" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/edit_exercise_dialog.xml" value="0.26229508196721313" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/exercise_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/exercise_graph_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/exercise_history_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/exercise_history_exercise_row.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/exercise_history_stats_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/exercise_row.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/import_warning_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/instruction.xml" value="0.2039381153305204" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/item_view_pager.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/personal_record_dialog.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/personal_record_row.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/set_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/settings_activity.xml" value="0.2726449275362319" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/show_exercise_comment_dialog.xml" value="0.2726449275362319" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/timer_dialog.xml" value="0.21" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/view_pager_exercise_row.xml" value="0.1575091575091575" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/layout/workout_set_row.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/menu/add_exercise_activity_menu.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.14" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/menu/charts_activity_menu.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/menu/custom_exercise_activity_menu.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/menu/day_activity_menu.xml" value="0.16" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/menu/diary_activity_menu.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/menu/exercises_activity_floating_context_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/menu/exercises_activity_menu.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/menu/main_activity_menu.xml" value="0.16" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/menu/me_activity_menu.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/fitness_app/app/src/main/res/xml/root_preferences.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

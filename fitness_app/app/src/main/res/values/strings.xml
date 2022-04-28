@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Фитнесс приложение</string>
+
+    <string-array name="Categories">
+        <item>Спина</item>
+        <item>Бицепс</item>
+        <item>Ноги</item>
+        <item>Пресс</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,646 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/core_grey_15"
+    tools:context=".Instruction">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:animateLayoutChanges="true"
+            android:orientation="vertical"
+            android:scrollbars="vertical" >
+
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardview_viewpager3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="@color/core_white"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/non_expandable_layout3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+
+                    <TextView
+                        android:id="@+id/workouts3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Тренировка пресса"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <View
+                        android:id="@+id/line3"
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginTop="5dp"
+                        android:background="@color/main"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/workouts3" />
+                    <TextView
+                        android:id="@+id/first_3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="5dp"
+                        android:text="1) Альпиниcт "
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/line3" />
+                    <TextView
+                        android:id="@+id/third_description"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="5dp"
+                        android:text="- Принять упор лежа. Тянуть колено к грудной   клетке; Повторять аналогичное действие со второй ногой. Упражнение рекомендуется выполнять максимально медленно. Амплитуда движения должна быть полной. Чем больше растягивать мышцы, тем эффективнее это будет для   тренировки."
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/first_3" />
+
+                    <ImageView
+                        android:id="@+id/img3_1"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="-30dp"
+                        app:layout_constraintTop_toBottomOf="@+id/first_3"
+                        android:src="@drawable/first3" />
+
+                    <TextView
+                        android:id="@+id/first_3_2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="440dp"
+                        android:text="2) Скручивание"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/line3" />
+                    <TextView
+                        android:id="@+id/third_description_2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="5dp"
+                        android:text="- Лечь на пол; согнуть ноги в коленях; руки    скрестить на грудной клетке или на затылке; поднимять корпус, пока поясница не оторвется от поверхности пола. Движение отлично разогревает."
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/first_3_2" />
+
+                    <ImageView
+                        android:id="@+id/img3_2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="-75dp"
+                        app:layout_constraintTop_toBottomOf="@+id/first_3_2"
+                        android:src="@drawable/second3" />
+                    <TextView
+                        android:id="@+id/first_3_3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="830dp"
+                        android:text="3) Подъемы ног к верху"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/line3" />
+                    <TextView
+                        android:id="@+id/third_description_3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="5dp"
+                        android:text="- Лечь на пол; руки разместить у бедер; медленно поднять ноги вверх и опустить. Руки необходимо держать рядом с тазом. Не следует помогать себе упором. Ноги должны подниматься усилием пресса."
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/first_3_3" />
+
+                    <ImageView
+                        android:id="@+id/img3_3"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="-95dp"
+                        app:layout_constraintTop_toBottomOf="@+id/first_3_3"
+                        android:src="@drawable/third3" />
+                    <TextView
+                        android:id="@+id/first_3_4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="1250dp"
+                        android:text="4) Повороты"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/line3" />
+                    <TextView
+                        android:id="@+id/third_description_4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="5dp"
+                        android:text="- Сесть на пол; немного отклонится назад; ноги поднять на небольшую высоту и держать в   принятом положении; корпус вращать в разные стороны, растягивая боковые мышцы.   При поворотах стараются держать ноги на одном месте. Они не должны раскачиваться вместе с совершаемыми движениями. Можно и даже нужно использовать небольшое утяжеление в виде    бутылки с водой либо гантель."
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/first_3_4" />
+
+                    <ImageView
+                        android:id="@+id/img3_4"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="65dp"
+                        app:layout_constraintTop_toBottomOf="@+id/first_3_4"
+                        android:src="@drawable/fourth3" />
+                    <TextView
+                        android:id="@+id/first_3_5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="1630dp"
+                        android:text="5) Махи ногами"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/line3" />
+                    <TextView
+                        android:id="@+id/third_description_5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="5dp"
+                        android:text="- Лечь на пол; слегка приподнять ноги; делать ножницы по вертикали."
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/first_3_5" />
+
+                    <ImageView
+                        android:id="@+id/img3_5"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="-125dp"
+                        app:layout_constraintTop_toBottomOf="@+id/first_3_5"
+                        android:src="@drawable/fifth3" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+            </androidx.cardview.widget.CardView>
+
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardview_viewpager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="15dp"
+                android:background="@color/core_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/non_expandable_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+
+                    <TextView
+                        android:id="@+id/workouts"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Тренировка спины и бицепса"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <View
+                        android:id="@+id/line"
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginTop="5dp"
+                        android:background="@color/main"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/workouts" />
+                    <TextView
+                        android:id="@+id/first"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="5dp"
+                        android:text="1) Подтягивания с отягощением"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/line" />
+                    <TextView
+                        android:id="@+id/first_description"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="30dp"
+                        android:text="- Необходимо расположить руки на перекладине как можно шире. Чем шире хват, тем сильнее задействованы мышцы спины, а нагрузка на руки снижается. Это происходит из-за короткой амплитуды."
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/line" />
+
+                    <ImageView
+                        android:id="@+id/img"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/first" />
+
+                    <TextView
+                        android:id="@+id/description2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="440dp"
+                        android:text="2) Тяга гантели в наклоне одной рукой"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/workouts" />
+                    <TextView
+                        android:id="@+id/first_description2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="465dp"
+                        android:text="- Кисть опорной руки обязательно должна быть расположена под плечом, спина прямая. На вдохе максимально напрячь спину, потянуть руку вверх. В верхней точке подержать руку несколько секуд. Плавно вернуться в исходную позу."
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/line" />
+                    <ImageView
+                        android:id="@+id/img2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="30dp"
+                        app:layout_constraintTop_toBottomOf="@+id/description2"
+                        android:src="@drawable/second" />
+                    <TextView
+                        android:id="@+id/description3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="780dp"
+                        android:text="3) Тяга блока к поясу"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/workouts" />
+                    <TextView
+                        android:id="@+id/first_description3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="805dp"
+                        android:text="- Упираемся ногами в специально      предусмотренные для этого упоры, сгибая их в коленях, выпрямляем спину и плечи, держим естественный прогиб в пояснице. Корпус должен быть в перпендикулярном положении по    отношению к полу.На выдохе: тянем ручку к поясу, сводим лопатки и расправляем плечи.На вдохе: плавно отпускаем вес обратно."
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/line" />
+                    <ImageView
+                        android:id="@+id/img3"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="120dp"
+                        app:layout_constraintTop_toBottomOf="@+id/description3"
+                        android:src="@drawable/third" />
+                    <TextView
+                        android:id="@+id/description4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="1120dp"
+                        android:text="4) Паучьи сгибания"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/workouts" />
+                    <TextView
+                        android:id="@+id/first_description4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="1145dp"
+                        android:text="- Установите спинку скамьи на нужный угол, обычно используют 45°. Лягте животом на скамью, и упритесь ногами в пол. На вдохе сгибаем руку в локтевом суставе. Очень важно почувствовать работу бицепса в данном движении. В верхнем положении сделайте небольшую паузу.Далее на выдохе медленно разгибаем руки практически до полного их выпрямления."
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/line" />
+                    <ImageView
+                        android:id="@+id/img4"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="80dp"
+                        app:layout_constraintTop_toBottomOf="@+id/description4"
+                        android:src="@drawable/fourth" />
+                    <TextView
+                        android:id="@+id/description5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="1450dp"
+                        android:text="5) Подъемы гантелей с хватом «молоток»"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/workouts" />
+                    <TextView
+                        android:id="@+id/first_description5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="1495dp"
+                        android:text="- Гантели держать в обеих опущенных руках, ладони повернуть внутрь к телу: сделать вдох и согнуть   руки одновременно, поднимая гантели к плечам;по окончании движения сделать выдох."
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/line" />
+                    <ImageView
+                        android:id="@+id/img5"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="-15dp"
+                        app:layout_constraintTop_toBottomOf="@+id/description5"
+                        android:src="@drawable/fifth" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+            </androidx.cardview.widget.CardView>
+
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardview_diary4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/core_white"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/non_expandable_layout4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/exercises2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Тренировка на ноги"
+                        android:textColor="@color/black"
+                        android:textSize="26sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+                    <View
+                        android:id="@+id/line2"
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginTop="5dp"
+                        android:background="@color/main"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/exercises2" />
+                    <TextView
+                        android:id="@+id/second"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="5dp"
+                        android:text="1) Выпады в сторону"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/line2" />
+                    <TextView
+                        android:id="@+id/second_description"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="30dp"
+                        android:text="- Ноги расставляют по ширине плеч. Делайте максимально широкий шаг с переносом центра тяжести на ногу. Колено и носок должны немного смотреть в сторону. Сгибают колено с переносом корпуса к ведущей ноге вперед. Вторую   максимально растягивают. Делают паузу. В этом моменте можно сделать два-три пружинящих движения. Возвращаются в исходное положение."
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/line2" />
+
+                    <ImageView
+                        android:id="@+id/img2_0"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="-20dp"
+                        app:layout_constraintTop_toBottomOf="@+id/second"
+                        android:src="@drawable/first2" />
+
+
+                    <TextView
+                        android:id="@+id/second_2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="320dp"
+                        android:text="2) Приседания плие"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/second_description" />
+                    <TextView
+                        android:id="@+id/second_description_2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="5dp"
+                        android:text="- Ноги расставляют по ширине плеч и удерживают снаряд на свободных руках на уровне бедер. Спину держат ровно. Носки максимально разворачивают в сторону. Медленно опускаются вниз, одновременно сгибая ноги в коленях. Стараются сесть   максимально низко. Предел - собственная   растяжка. Возвращаются в исходное положение, но колени полностью не распрямляют."
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/second_2" />
+                    <ImageView
+                        android:id="@+id/img2_2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="-25dp"
+                        app:layout_constraintTop_toBottomOf="@+id/second_2"
+                        android:src="@drawable/second2" />
+
+                    <TextView
+                        android:id="@+id/second_3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="345dp"
+                        android:text="3) Приседания с узкой постановкой ног"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/second_description_2" />
+                    <TextView
+                        android:id="@+id/second_description_3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="5dp"
+                        android:text="- Штанга располагается на середине   трапециевидной мышцы, или ниже.Со стоек снимается обычным способом — нужно подойти, согнуть колени, разместить корпус под грифом, напрячь пресс, снять штангу. Далее вы толкаете колени в стороны, сонаправленно пальцам ног и сгибает колени, опускаясь в присед. Амплитуда должна быть полной, рекомендуется опускать таз ниже колен. Из нижней точки происходит обратное движение — разгибание в тазобедренных коленных суставах"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/second_3" />
+                    <ImageView
+                        android:id="@+id/img2_3"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="85dp"
+                        app:layout_constraintTop_toBottomOf="@+id/second_3"
+                        android:src="@drawable/third2" />
+                    <TextView
+                        android:id="@+id/second_4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="795dp"
+                        android:text="4) Наклоны со штангой на плечах"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/second_description_2" />
+                    <TextView
+                        android:id="@+id/second_description_4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="5dp"
+                        android:text="- Лопатки должны быть сведены и   стабилизированы, плечи — отведены назад и опущены. Стопы можно расставить как в   приседании или чуть шире. Носки направлены в стороны, чтобы при наклоне положение тела оставалось стабильным. На вдохе таз отводится назад, выполняется наклон вперед. Затем —    возврат корпуса в нейтральное положение, проверка лопаток, снова наклон. Амплитуда в этом упражнении индивидуальна."
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/second_4" />
+                    <ImageView
+                        android:id="@+id/img2_4"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="25dp"
+                        app:layout_constraintTop_toBottomOf="@+id/second_4"
+                        android:src="@drawable/fourth2" />
+                    <TextView
+                        android:id="@+id/second_5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1290dp"
+                        android:text="5) Выпрыгивание из глубокого седа и полуприседа"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/second_description_2" />
+                    <TextView
+                        android:id="@+id/second_description_5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="5dp"
+                        android:text="- Cтопы на удобной для доседа ширине, носки развернуты в стороны так, чтобы было возможно вести колени в стороны, корпус прямой, спина напряжена и собрана, живот подтянут. На вдохе толкните колени в стороны, и начинайте сгибать их, и тазобедренные суставы, оставляя спину прямой. Дойдя до точки, в которой тазовые косточки   пройдут плоскость колена, оттолкнитесь ногами от пола и резко выпрыгните вверх. В фазе полета колени можно оставить чуть согнутыми. Приземлитесь на передние части свода стопы, и опуститесь полностью в присед. "
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/second_5" />
+                    <ImageView
+                        android:id="@+id/img2_5"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="40dp"
+                        app:layout_constraintTop_toBottomOf="@+id/second_5"
+                        android:src="@drawable/fifth2" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:backgroundTint="@color/cardview_light_background"
+        app:elevation="0dp"
+        app:itemHorizontalTranslationEnabled="false"
+        app:itemIconSize="24dp"
+        app:itemIconTint="@drawable/tab_color"
+        app:itemTextColor="@drawable/tab_color"
+        app:labelVisibilityMode="unlabeled"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:menu="@menu/bottom_navigation_menu" />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
